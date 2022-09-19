@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivashankar</h1>
-<h3 align="center">An experienced Cybersecurity professional from India</h3>
-<img align= "right" alt= "coding" Width= "400" src= "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2016%2F11%2F07%2F12%2F08%2Fcyber-security-1805632__480.png&imgrefurl=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fcyber%2520security%2F&tbnid=N6olaUwQt4foVM&vet=12ahUKEwi9_LyG9J_6AhXui9gFHa7rD10QMygEegUIARDkAQ..i&docid=X7Wj1lkEnE04KM&w=660&h=480&q=cyber%20security%20images&hl=en&ved=2ahUKEwi9_LyG9J_6AhXui9gFHa7rD10QMygEegUIARDkAQ">
+<h3 align="center">A Cybersecurity professional with experience in SOC operations</h3>
 
 
 - 🌱 I’m currently learning **Python, Javascript, HTML, CSS**
@@ -9,7 +8,7 @@
 
 - 📫 How to reach me **Shivashankarsaravanan6@gmail.com**
 
-- ⚡ Fun fact **I am a parttime musician**
+- ⚡ Fun fact **I am a part-time musician**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
